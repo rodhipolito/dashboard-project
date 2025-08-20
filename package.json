@@ -1,0 +1,16 @@
+{
+  "name": "dashboard-interativo",
+  "version": "1.0.0",
+  "description": "Dashboard interativo com React e Chart.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'Build completo'"
+  },
+  "keywords": ["dashboard", "react", "chart.js", "data visualization"],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
