@@ -1,8 +1,8 @@
 # Dashboard Interativo
 
-Um dashboard moderno e responsivo construído com React e Chart.js.!!
+Um dashboard moderno e responsivo construído com **React** e **Chart.js**.
 
-## Funcionalidades
+## ✨ Funcionalidades
 
 - ✅ Tema claro/escuro
 - ✅ Gráficos interativos com Chart.js
@@ -12,28 +12,35 @@ Um dashboard moderno e responsivo construído com React e Chart.js.!!
 - ✅ Atualização automática de dados
 - ✅ Simulação de API para dados dinâmicos
 
-## Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
-- React 18
-- Chart.js
-- Font Awesome
-- CSS Grid e Flexbox
+- [React 18](https://react.dev/)
+- [Chart.js](https://www.chartjs.org/)
+- [Font Awesome](https://fontawesome.com/)
+- CSS Grid & Flexbox
 - HTML5
 - JavaScript (ES6+)
 
-## Como Executar
+## 🚀 Como Executar
 
 ### Pré-requisitos
+
 - Navegador moderno com JavaScript habilitado
 - Servidor local (recomendado) ou abrir diretamente no navegador
 
 ### Método 1: Com Live Server (Recomendado)
+
 ```bash
 # Instale o live-server globalmente
 npm install -g live-server
 
-# Navegue até a pasta public
+# Navegue até a pasta do projeto (ou pasta 'public', se aplicável)
 cd public
 
 # Execute o servidor
 live-server
+```
+
+---
+
+Sinta-se à vontade para personalizar ainda mais conforme as necessidades do seu
